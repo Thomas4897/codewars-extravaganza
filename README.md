@@ -1,10 +1,10 @@
 # Codewars Extravaganza
 
-Today we'll be solving coding challenges on the CodeWars platform! Start about by making an account and setting your clan as "Code Immersives". 
+Today we'll be solving coding challenges on the CodeWars platform! Start about by making an account and setting your clan as "Code Immersives".
 
 Start out by forking and cloning this repository.
 
-**Your challenge is to complete at least TEN of the following CodeWars problems.** 
+**Your challenge is to complete at least TEN of the following CodeWars problems.**
 
 Upon completing a problem, upload a screenshot of the success screen on the CodeWars website to this repository then embed it in the README.md file so it can be easily checked.
 
@@ -16,17 +16,16 @@ To embed an image in the README.md, just add some HTML! (markdown will render so
 
 ## Screenshots
 
-```[insert your succeess screenshots here]```
+`[insert your succeess screenshots here]`
 <img width="400px" src="./success-screen-1.jpg" />
 <img width="400px" src="./success-screen-2.jpg" />
-<img width="400px" src="./success-screen-3jpg" />
-<img width="400px" src="./success-screen-4jpg" />
-<img width="400px" src="./success-screen-5jpg" />
-<img width="400px" src="./success-screen-6jpg" />
-<img width="400px" src="./success-screen-7jpg" />
-<img width="400px" src="./success-screen-8jpg" />
-<img width="400px" src="./success-screen-9jpg" />
-
+<img width="400px" src="./success-screen-3.jpg" />
+<img width="400px" src="./success-screen-4.jpg" />
+<img width="400px" src="./success-screen-5.jpg" />
+<img width="400px" src="./success-screen-6.jpg" />
+<img width="400px" src="./success-screen-7.jpg" />
+<img width="400px" src="./success-screen-8.jpg" />
+<img width="400px" src="./success-screen-9.jpg" />
 
 ## Problems
 
